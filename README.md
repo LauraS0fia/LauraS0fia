@@ -1,6 +1,4 @@
-lover of rock 🤘 and art in all its expressions 💫
-- programming is like design 😁, as an art 🎨
-- ❤️ everythinng is more beautifull if you dou with love
+
 - lauritrujillo123@gmail.com
 
 <!---
