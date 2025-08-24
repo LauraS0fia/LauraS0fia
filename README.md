@@ -1,5 +1,5 @@
 
-- lauritrujillo123@gmail.com
+- laura.pedrazatuniagustiniana.edu.co
 
 <!---
 LauraS0fia/LauraS0fia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
