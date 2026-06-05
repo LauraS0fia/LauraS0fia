@@ -3,9 +3,10 @@
   <img src="https://img.shields.io/badge/Welcome%20to%20Software%20Developer%20GitHub!-0047AB?style=for-the-badge" />
 </p>
 <h3 align="center"> Software Developer | FullStack | Competitive Programmer </h3>
-### 👨🏻‍💻 &nbsp;About Me
+
+<h4 👨🏻‍💻 About Me></h4>
 <br>
-### 🛠 &nbsp;Tech Stack
+<h4 Tech Stack></h4>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
