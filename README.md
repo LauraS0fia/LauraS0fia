@@ -4,9 +4,9 @@
 </p>
 <h3 align="center"> Software Developer | FullStack | Competitive Programmer </h3>
 
-<h4 👨🏻‍💻 About Me></h4>
+<h4> 👨🏻‍💻 About Me></h4>
 <br>
-<h4 Tech Stack></h4>
+<h4> Tech Stack></h4>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
