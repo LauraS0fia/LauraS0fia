@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Welcome%20to%20Software%20Developer%20GitHub!-0047AB?style=for-the-badge" />
 </p>
-<h3 align="center"> Software Developer | FullStack | Competitive Programmer </h3>
+<h3 align="center"> Software Developer | FullStack | Competitive Programmer | QA </h3>
 <hr>
 
 <h4> 👨🏻‍💻 About Me</h4>
@@ -10,13 +10,11 @@
 
 - 🎓 Software Development Student.
 
-- 🤝 Experienced in collaborative software projects.
+- 💻 Specialized in Backend Development with practical full-stack project experience.
 
-- 💻 Passionate about Backend Development.
+- 🌱 Deepening my skills in: FullStack development, Linux administration, QA Automation, and AI Agents.
 
-- 🌱 Learning Linux, Cloud Computing, and DevOps fundamentals.
-
-- 🚀 Looking for opportunities to grow, learn, and contribute to real-world projects.
+- 🚀  Looking for an entry-level role or internship to deliver value to a engineering team.
 
 
 <hr>
